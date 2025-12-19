@@ -7,7 +7,7 @@ Backend API built using NestJS to manage issues across multiple organizations wi
 - NestJS
 - TypeScript
 - Prisma ORM
-- SQLite
+- MongoDB
 
 ## Features
 - Multi-tenant data isolation using organizationId
